@@ -44,9 +44,10 @@ remplezar los astriscos por nombre
 endpoint para eliminar un empleado http://localhost:9090/v1/api/getbyid/**********
 remplezar los astriscos por numero de documento
 
-otros endpint que tambien tienen crud http://localhost:9090/v1/api/area/getall
-              http://localhost:9090/v1/api/subarea/getall
-              http://localhost:9090/v1/api/documenttipe/getall
+otros endpint que tambien tienen crud 
+http://localhost:9090/v1/api/area/getall
+http://localhost:9090/v1/api/subarea/getall
+http://localhost:9090/v1/api/documenttipe/getall
   
   
   
